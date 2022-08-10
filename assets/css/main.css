@@ -3239,7 +3239,7 @@ label {
     position: relative;
 }
 
-.header .main-menu li.has-children>a::after {
+/* .header .main-menu li.has-children>a::after {
     content: "\f10d";
     font-family: uicons-regular-rounded !important;
     font-style: normal;
@@ -3250,7 +3250,7 @@ label {
     font-size: 9px;
     opacity: 0.5;
     margin-left: 4px;
-}
+} */
 
 .header .main-menu li.hr {
     padding: 0px 22px;
